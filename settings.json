@@ -3,9 +3,9 @@
     "donate_link": "https://paypal.me/yourpaypal",
     "share_text": "Check out NetStream - the best free streaming app! Watch thousands of channels for free.",
     "share_url": "https://t.me/NetStreamfree",
-    "app_version": "1.9.0",
+    "app_version": "1.11.0",
     "unity_app_id": "5067721",
     "unity_banner_placement_id": "Banner_Android",
-    "unity_interstitial_placement_id": "Interstitial_Android",
-    "interstitial_ad_interval": 3
+    "unity_interstitial_placement_id": "Int",
+    "interstitial_ad_interval": 2
 }
